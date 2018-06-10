@@ -1,2 +1,3 @@
-# pagoPA, Linee Guida Pagamenti Eletteronici a favore delle Pubbliche Amministrazioni e dei Gestori di Pubblici Servizi
-Linee Guida per l'Effettuazione dei Pagamenti Elettronici a favore delle Pubbliche Amministrazioni e dei Gestori di Pubblici Servizi di pagoPA versione 1.2
+# pagoPA, Linee guida pagamenti eletteronici a favore delle Pubbliche Amministrazioni e dei gestori di pubblici servizi
+
+Linee guida per l'effettuazione dei pagamenti elettronici a favore delle Pubbliche Amministrazioni e dei gestori di pubblici servizi di pagoPA versione 1.2.
