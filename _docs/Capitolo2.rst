@@ -84,14 +84,6 @@ un mercato competitivo, fornisce orientamenti strategici per la
 standardizzazione, formula le migliori pratiche a supporto e
 controlla l'attuazione delle decisioni prese;
 
-Fanno parte dei prestatori di servizi di pagamento gli istituti di
-moneta elettronica e gli istituti di pagamento nonché, quando
-prestano servizi di pagamento, le banche, gli uffici postali, la
-Banca Centrale Europea e le banche centrali nazionali se non
-agiscono in veste di autorità monetarie, altre autorità pubbliche,
-le amministrazioni statali, regionali e locali se non agiscono in
-veste di autorità pubbliche;
-
 \(i\) - *gestori di pubblici servizi*: 
 le aziende e gli enti organizzati in
 forma societaria che gestiscono servizi pubblici;
@@ -108,59 +100,56 @@ il soggetto finanziario affidatario del
 servizio di tesoreria o di cassa della singola amministrazione,
 ivi compresa la Banca d’Italia;
 
-\(l\) - *micro-pagamenti*: 
-operazioni di pagamenti di importo non superiore
-a 30 euro o che presentano un limite di spesa complessivo di 150
-euro o che sono avvalorati per un importo che in nessun momento
-supera i 150 euro, così come indicati all’articolo 4, comma 1
-del Decreto legislativo 27 gennaio 2010, n. 11;
-
-\(m\) - *Nodo dei Pagamenti-SPC*: 
+\(l\) - *Nodo dei Pagamenti-SPC*: 
 piattaforma tecnologica per
 l’interconnessione e l’interoperabilità tra le Pubbliche
 Amministrazioni e i Prestatori di Servizi di Pagamento di cui
 all’art. 5, comma 2 del CAD;
 
-\(n\) - *pagatore*: 
+\(m\) - *pagatore*: 
 persona fisica o giuridica che effettua, direttamente o
 tramite un delegato (soggetto versante), un pagamento in favore
 di un ente per somme di denaro a vario titolo dovute;
 
-\(o\) - *POS (Point Of Sale)*: 
+\(n\) - *POS (Point Of Sale)*: 
 apparecchiatura automatica presidiata per la
 lettura di carte di pagamento (POS fisico) o servizio fruibile
 attraverso la rete internet (POS virtuale), messi a disposizione
 dai prestatori di servizi di pagamento, mediante i quali è
 possibile effettuare l’operazione di pagamento;
 
-\(p\) - *PSD*: 
+\(o\) - *PSD*: 
 Payment Services Directive - la direttiva 2007/64/CE relativa
 ai servizi di pagamento nel mercato interno;
 
-\(q\) - *PSD2*: 
+\(p\) - *PSD2*: 
 Payment Services Directive - la direttiva 2015/2366 relativa
 ai servizi di pagamento nel mercato interno;
 
-\(r\) - *PSP:* 
+\(q\) - *PSP:* 
 prestatore di servizi di pagamento - organismo che presta
 servizi di pagamento sul territorio della Repubblica in quanto
-ivi insediato o in regime di libera prestazione di servizi;
+ivi insediato o in regime di libera prestazione di servizi.
+Sono prestatori di servizi di pagamento gli istituti di moneta 
+elettronica e gli istituti di pagamento nonché, quando prestano 
+servizi di pagamento, le banche, gli uffici postali, 
+la Banca Centrale Europea e le banche centrali nazionali se non 
+agiscono in veste di autorità monetarie, altre autorità pubbliche,
+le amministrazioni statali, regionali e locali se non agiscono in 
+veste di autorità pubbliche;
 
-\(s\) - *pubblica amministrazione*: 
-ente di cui all’articolo 2, comma 2 del CAD;
-
-\(t\) - *Ricevuta telematica (RT)*: 
+\(r\) - *Ricevuta telematica (RT)*: 
 attestazione informatica di avvenuto
 pagamento rilasciata dal prestatore di servizi di pagamento al
 pagatore, o al soggetto versante, nonché all’Ente Creditore;
 
-\(u\) - *Richiesta di pagamento telematico (RPT)*: 
+\(s\) - *Richiesta di pagamento telematico (RPT)*: 
 disposizione impartita
 dal pagatore, o dal soggetto versante, al prestatore di servizi
 di pagamento contenente tutti gli elementi richiesti dall’Ente
 Creditore beneficiario per effettuare un pagamento informatico;
 
-\(v\) - *SEPA*: 
+\(t\) - *SEPA*: 
 Single Euro Payments Area (Area unica dei pagamenti in
 euro), ovvero un'area nella quale gli utilizzatori degli
 strumenti di pagamento - i cittadini, imprese, pubbliche
@@ -168,19 +157,11 @@ amministrazioni e gli altri operatori economici -
 indipendentemente dalla loro residenza, possono effettuare e
 ricevere pagamenti in euro non in contanti sia all'interno dei
 confini nazionali che fra paesi diversi, alle stesse condizioni
-e con gli stessi diritti e obblighi. La SEPA riguarda 32 paesi
+e con gli stessi diritti e obblighi. La SEPA riguarda 34 paesi
 (tutti i paesi dell'Unione Europea più l'Islanda, la Norvegia,
-il Liechtenstein, la Svizzera e il Principato di Monaco).
+il Liechtenstein, la Svizzera e il Principato di Monaco e San Marino).
 
-Il progetto SEPA, avviato oltre 10 anni fa - su impulso delle
-autorità europee - dall'industria bancaria e dei pagamenti europea,
-prevede la definizione di standard comuni per bonifici e addebiti
-diretti, i due principali servizi di pagamento al dettaglio in euro
-diversi dal contante. Ai sensi del Regolamento UE 260/2012, la
-migrazione ai nuovi strumenti europei dovrà completarsi entro il 1°
-febbraio 2014.;
-
-\(w\) - *servizi pubblici*: 
+\(u\) - *servizi pubblici*: 
 qualsiasi attività che si concretizzi nella
 produzione di beni o servizi che rispondano ad esigenze di
 utilità generale, non solo in termini economici ma anche in
@@ -188,28 +169,28 @@ termini di promozione sociale, purché risponda ad esigenze di
 utilità generale o ad essa destinata in quanto preordinata a
 soddisfare interessi collettivi [1]_.
 
-\(x\) - *Sistema pagoPA*: 
+\(v\) - *Sistema pagoPA*: 
 il sistema dei pagamenti a favore delle pubbliche
 amministrazioni e dei gestori di pubblici servizi;
 
-\(y\) - *soggetto versante*: 
+\(w\) - *soggetto versante*: 
 persona, fisica o giuridica, che effettua un
 pagamento su delega del pagatore;
 
-\(z\) - *SPC*: 
+\(x\) - *SPC*: 
 Sistema pubblico di connettività di cui al Capo VIII del CAD.
 
-\(aa\) - *SPID*: 
+\(y\) - *SPID*: 
 Sistema pubblico per la gestione dell'identità digitale di
 cittadini e imprese di cui all’articolo 64 e 64-bis del CAD;
 
-\(bb\) - *strumento di pagamento*: 
+\(z\) - *strumento di pagamento*: 
 dispositivo personalizzato o insieme di
 procedure utilizzate dal prestatore di servizi di pagamento che
 consentono al pagatore, o al soggetto versante, di impartire
 richieste di pagamento informatico;
 
-\(cc\) - *utilizzatore finale*: 
+\(aa\) - *utilizzatore finale*: 
 il soggetto (pagatore o versante) che
 effettua il pagamento di somme a favore di un Ente Creditore.
 
