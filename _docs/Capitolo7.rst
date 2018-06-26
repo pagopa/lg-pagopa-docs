@@ -54,9 +54,8 @@ le proprie soluzioni organizzative.
 L’identificativo univoco di versamento **(IUV)** da indicare
 obbligatoriamente, rappresenta **l’elemento essenziale della** **causale
 del versamento,** il cui formato deve essere conforme e generato secondo
-quanto specificato nella Sezione I dell’\ *Allegato A - Specifiche
-attuative dei codici identificativi di versamento, riversamento e
-rendicontazione*.
+quanto specificato nella Sezione I dell’ `Allegato A - Specifiche attuative dei codici identificativi di versamento, riversamento e rendicontazione <https://pagopa-codici.readthedocs.io/it/latest/>`_.
+
 
 Al fine di consentire le attività di riconciliazione del pagamento da
 parte degli Enti Creditori e quelle di riversamento a cura dei
