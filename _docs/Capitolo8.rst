@@ -19,8 +19,7 @@
 
 Le Linee guida non dettano specifici *workflow* procedurali per i
 procedimenti amministrativi degli Enti Creditori, bensì introducono
-particolari “modelli”, meglio definiti nell’\ *Allegato B - Specifiche
-attuative del Nodo dei Pagamenti-SPC*, per eseguire i correlati
+particolari “modelli”, meglio definiti nell’ `Allegato B - Specifiche attuative del Nodo dei Pagamenti-SPC <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/>`_, per eseguire i correlati
 pagamenti che possono essere effettuati, sia dai siti web degli stessi
 Enti Creditori, sia attraverso i servizi e i canali messi a disposizione
 dai prestatori di servizi di pagamento.
@@ -173,8 +172,7 @@ Pagamenti-SPC consente a questi ultimi di rilasciare al pagatore una
 ricevuta, telematica e/o cartacea, con potere liberatorio.
 
 Le modalità tecniche e organizzative per l’utilizzo della piattaforma
-tecnologica sono definite nell’\ *Allegato B - Specifiche attuative del
-Nodo dei Pagamenti-SPC*, e costituiscono parte integrante delle presenti
+tecnologica sono definite nell’ `Allegato B - Specifiche attuative del Nodo dei Pagamenti-SPC <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/>`_, e costituiscono parte integrante delle presenti
 Linee guida.
 
 8.3.2 Accordi per l’attivazione dell’interoperabilità con il Nodo dei Pagamenti-SPC
@@ -198,7 +196,7 @@ Servizio” pubblicati sul sito dell’Agenzia per l’Italia Digitale.
 8.3.3 Intermediari per la connessione al Nodo dei Pagamenti-SPC
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Gli **Enti Creditori,** nonché i **PSP** che abbiano sottoscritto gli
+Gli Enti Creditori, nonché i PSP che abbiano sottoscritto gli
 accordi di cui al paragrafo precedente, si possono avvalere di uno o più
 soggetti terzi che, in nome e per conto del soggetto aderente, si
 occuperanno di gestire le attività di interconnessione
@@ -229,27 +227,13 @@ presso la tesoreria dello Stato.
 
 Il Sistema pagoPA, difatti, non prevede alcun tipo di rapporto
 contrattuale tra il PSP e l’Ente Creditore, per cui le commissioni sono
-applicate all’utilizzatore finale dal proprio PSP (selezionato
-liberamente tra i PSP aderenti) per il servizio di pagamento richiesto.
-
-Di conseguenza - in applicazione del principio tariffario comunitario
-c.d. SHARE e del divieto di *surcharge*, come recepiti a livello
-nazionale dal D.Lgs. 11/2010 di recepimento della direttiva Payment
-Service Directive (PSD) - il pagatore è chiamato a corrispondere le
-commissioni al PSP da lui selezionato. Tali principi, stante il
-funzionamento del Sistema pagoPA, sono rispettati anche nell’operatività
-del pagamento con carta di pagamento.
-
-Precisato quanto fin qui esposto, appare per completezza opportuno
-segnalare che quanto avviene con il Sistema pagoPA - ossia consentire ad
-un PSP aderente e selezionato liberamente dall’utilizzatore finale di
-richiedere una commissione per l’operazione di pagamento – costituisce
-una fattispecie in nessun modo assimilabile alla pratica illegale (art.
-3, comma 4, D.Lgs. 11/2010) e scorretta (art. 21, comma 4bis, e art. 62,
-comma 1, D.Lgs. 206/2005) del *surcharge*, in cui un beneficiario
-applica un sovrapprezzo per determinate tipologie di pagamento,
-ribaltando sull’utente, in tutto o in parte, le commissioni che lo
-stesso beneficiario è chiamato a riconoscere al proprio PSP.
+applicate all’utilizzatore finale dal PSP (selezionato
+liberamente tra i PSP aderenti che offrono il servizio in concorrenza fra loro)
+per il servizio di pagamento richiesto. Ciò è coerente con il principio di tariffazione 
+“share” (il pagatore e il beneficiario sostengono ciascuno le spese applicate dal 
+rispettivo prestatore  di  servizi  di  pagamento) e con il divieto di surcharge [4]_. 
+Tali principi, stante il funzionamento del Sistema pagoPA, 
+sono rispettati anche nell’operatività del pagamento con carta di pagamento.
 
 Solo laddove la pubblica amministrazione, in materia di pagamenti,
 voglia accollarsi in tutto o in parte le commissioni in capo agli
@@ -271,13 +255,18 @@ operativi adottati dai PSP, indipendentemente dal termine della giornata
 operativa stabilito da ciascun PSP, il termine della giornata operativa
 per la ricezione delle operazioni di pagamento da effettuarsi tramite il
 Nodo dei Pagamenti-SPC (c.d. “giornata operativa del Nodo dei
-Pagamenti-SPC”) è indicata nella Sezione I dell’\ *Allegato A -
-Specifiche attuative dei codici identificativi di versamento,
-riversamento e rendicontazione*.
+Pagamenti-SPC”) è indicata nella Sezione I dell’ `Allegato A - Specifiche attuative dei codici identificativi di versamento, riversamento e rendicontazione <https://pagopa-codici.readthedocs.io/it/latest/>`_.
 
 .. [3]
    Capo III “Formazione, gestione e conservazione dei documenti
    informatici” del CAD.
+.. [4]
+   La commissione applicata dal PSP al pagatore rappresenta il corrispettivo per 
+   l’esecuzione di un servizio di pagamento e non costituisce pertanto una 
+   fattispecie assimilabile al surcharge (art. 3, comma 4, D.Lgs. 11/2010; art. 21, comma 4bis, e art. 62, 
+   comma 1, D.Lgs. 206/2005) in cui il beneficiario applica un sovrapprezzo per l’utilizzo di determinati 
+   strumenti di pagamento,  ribaltando sull’utente, in tutto o in parte, le commissioni che lo stesso 
+   beneficiario è chiamato a riconoscere al proprio PSP.
 
 .. |AGID_logo_carta_intestata-02.png| image:: media/header.png
    :width: 5.90551in
