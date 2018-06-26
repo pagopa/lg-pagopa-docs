@@ -80,10 +80,9 @@ integralmente quanto specificato nelle presenti Linee guida anche in
 deroga, per la sola componente della causale, alla Circolare della
 Ragioneria Generale dello Stato n. 20 dell’8 maggio 2007, tenuto conto
 del rapporto di specialità delle presenti Linee guida rispetto alla
-circolare della RGS.
-
-La citata circolare della RGS rimane, invece, da attuare integralmente
-per gli SCT in favore di PA non ancora aderenti al Sistema pagoPA.
+circolare della RGS. Le disposizioni di cui alla suddetta Circolare 
+RGS n. 20 del 2007 restano integralmente applicabili per i versamenti 
+effettuati dagli utilizzatori finali al di fuori del Sistema pagoPA.
 
 7.2 Identificativo del conto di pagamento
 -----------------------------------------
@@ -99,11 +98,11 @@ Generale dello Stato [2]_ ai sensi del già citato decreto del MEF n.
 293/2006.
 
 Sempre al fine di garantire il maggior numero di servizi di pagamento
-disponibili, nel caso in cui siano stati istituiti dall’Ente Creditore
-uno o più conti correnti postali - intestati alle tesorerie e dedicati a
+disponibili, nel caso in cui siano stati istituiti dall’Amministrazione 
+centrale uno o più conti correnti postali - intestati alle tesorerie e dedicati a
 particolari categorie di versamenti, collegati a specifiche imputazioni
-di versamento in tesoreria - dovrà essere fornito all’utilizzatore
-finale, oltre al codice IBAN per l’accredito presso la Banca d’Italia,
+di versamento in tesoreria - dovrà essere fornito al PSP, oltre al codice 
+IBAN per l’accredito presso la Banca d’Italia,
 anche l’identificativo del conto corrente postale “dedicato” sul quale
 effettuare il versamento tramite bollettino postale.
 
