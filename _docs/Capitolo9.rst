@@ -21,8 +21,7 @@ Il “ciclo di vita del pagamento” prevede che, una volta completata la
 fase di esecuzione del pagamento, quest’ultimo venga regolato
 contabilmente tra i prestatori di servizi di pagamento dell’utilizzatore
 finale e del Ente Creditore attraverso l’invio di SEPA Credit Transfer,
-con le modalità indicate dall’\ *Allegato A - Specifiche attuative dei
-codici identificativi di versamento, riversamento e rendicontazione*.
+con le modalità indicate dall’ `Allegato A - Specifiche attuative dei codici identificativi di versamento, riversamento e rendicontazione <https://pagopa-codici.readthedocs.io/it/latest/>`_.
 
 Le operazioni disposte attraverso il Sistema pagoPA possono essere
 regolate singolarmente o in maniera cumulativa facendo riferimento alla
@@ -39,7 +38,7 @@ indicato nella ricevuta stessa, a prescindere che l’operazione di
 addebito nei confronti dell’utilizzatore finale sia stata eseguita o
 meno.
 
-Il prestatore di servizi di pagamento che abbia emesso erroneamente una
+Il PSP che abbia emesso erroneamente una
 Ricevuta telematica con esito positivo potrà essere esentato
 dall’obbligo di effettuare in favore dell’Ente Creditore l’accredito
 dell’importo indicato nella ricevuta stessa solo al ricorrere della
@@ -49,11 +48,11 @@ elencate ai seguenti punti b) e c):
 a) abbia preventivamente comunicato all’Ente Creditore l’errata
 emissione della Ricevuta telematica avente esito positivo;
 
-b) ove il pagamento sia relativo all’erogazione di un servizio da parte
+b) ove il pagamento **sia relativo** all’erogazione di un servizio da parte
 dell’Ente Creditore e quest’ultimo non abbia provveduto
 all’erogazione del servizio stesso verso l’utilizzatore finale;
 
-c) ove il pagamento non sia relativo all’erogazione di un servizio da
+c) ove il pagamento **non sia relativo** all’erogazione di un servizio da
 parte dell’Ente Creditore e il prestatore di servizi di pagamento
 dia prova all’Ente Creditore che l’utilizzatore finale abbia già
 ricevuto un documento emesso dallo stesso prestatore di servizi
@@ -63,10 +62,10 @@ dell’attestazione di pagamento erroneamente rilasciata.
 9.1 Pagamenti effettuati tramite bollettino di conto corrente postale
 ---------------------------------------------------------------------
 
-Stante la particolare natura del versamento in oggetto, regolato
+Fatta salva la particolare natura del versamento in oggetto, regolato
 dall’articolo 4 del DPR 144/2001, per quanto riguarda le somme incassate
 sui conti correnti postali, in quanto somme nella disponibilità
-dell’Ente Creditore, quest’ultimo ha facoltà di richiedere a Poste
+dell’Ente Creditore ha la facoltà di richiedere a Poste
 Italiane S.p.a. di eseguire il riversamento sul conto di tesoreria delle
 somme incassate attraverso il Sistema pagoPA nella singola Giornata
 operativa del Nodo dei Pagamenti-SPC (:ref:`vedi paragrafo 8.5 <giornata-operativa-del-nodo>`) mediante invio
