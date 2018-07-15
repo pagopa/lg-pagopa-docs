@@ -1,10 +1,8 @@
-﻿document:
-  name: pagoPA, Linee Guida Pagamenti Eletteronici a favore delle Pubbliche Amministrazioni e dei Gestori di Pubblici Servizi
-  description: |
-    Linee Guida per l'Effettuazione dei Pagamenti Elettronici a favore delle Pubbliche Amministrazioni 
-    e dei Gestori di Pubblici Servizi di pagoPA versione 1.2
-  tags:
-    - SANP
+--- 
+document:
+  name: "Linee guida pagamenti elettronici a favore delle pubbliche amministrazioni e dei gestori di pubblici servizi"
+  description: "Linee Guida per l'Effettuazione dei Pagamenti Elettronici a favore delle Pubbliche Amministrazioni e dei Gestori di Pubblici Servizi di pagoPA versione 1.2. Le presenti Linee guida sono emanate - ai sensi dell’articolo 71 del Decreto legislativo 7 marzo 2005, n. 82 e successive modificazioni."
+  tags: 
     - pagoPA
-    - LineeGuidaPagamenti
-    - AgID
+    - SANP
+    - "linee guida"
