@@ -65,7 +65,7 @@ dell’attestazione di pagamento erroneamente rilasciata.
 Fatta salva la particolare natura del versamento in oggetto, regolato
 dall’articolo 4 del DPR 144/2001, per quanto riguarda le somme incassate
 sui conti correnti postali, in quanto somme nella disponibilità
-dell’Ente Creditore ha la facoltà di richiedere a Poste
+dell’Ente Creditore, quest'ultimo ha la facoltà di richiedere a Poste
 Italiane S.p.a. di eseguire il riversamento sul conto di tesoreria delle
 somme incassate attraverso il Sistema pagoPA nella singola Giornata
 operativa del Nodo dei Pagamenti-SPC (:ref:`vedi paragrafo 8.5 <giornata-operativa-del-nodo>`) mediante invio
